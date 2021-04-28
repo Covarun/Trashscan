@@ -1,2 +1,2 @@
-- 👋 Heyo, I’m @Trashscan
+- 👋 Heyo, I’m @Covarun
 - 👀 Checkout some repos
